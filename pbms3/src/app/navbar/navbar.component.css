@@ -1,0 +1,44 @@
+.nav-link {
+  touch-action: manipulation;
+    padding: 5px 10px;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: inline-block;
+    background-color: #eee;
+    border-radius: 4px; 
+    cursor: pointer;
+      position: relative;
+      padding: 0.5rem 1rem;
+      padding-top: 0.5rem;
+      padding-right: 1rem;
+      padding-bottom: 0.5rem;
+      padding-left: 1rem;
+  }
+nav ul{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  display:block;
+}
+li{
+  float:right;
+}
+  nav a:visited,
+  nav a:link {
+    color: #607D8B;
+  }
+.extra{
+  clear: both;
+}
+  nav a:hover {
+    color: #039be5;
+    background-color: #CFD8DC;
+  }
+  
+  nav a.active {
+    color: #039be5;
+  }
+  nav{
+    display: inline;
+  }

@@ -1,0 +1,85 @@
+
+.text-xs-center {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #373a3c;
+    background-color: #fff;
+        text-align: center !important; }
+
+    a:-webkit-any-link {
+        color: blue;
+        cursor: pointer;
+        text-decoration: underline;
+        text-decoration-line: underline;
+        text-decoration-style: initial;
+        text-decoration-color: yellow;
+    }
+    fieldset {
+        min-width: 0;
+        padding: 0;
+        margin: 0;
+        border: 0;
+        display: block;
+        
+    -webkit-margin-start: 2px;
+    -webkit-margin-end: 2px;
+    -webkit-padding-before: 0.35em;
+    -webkit-padding-start: 0.75em;
+    -webkit-padding-end: 0.75em;
+    -webkit-padding-after: 0.625em;
+    }
+    .form-control {
+        display: block;
+        width: 100%;
+        padding: 0.5rem 0.75rem;
+        font-size: 1rem;
+        line-height: 1.25;
+        color: #55595c;
+        background-color: #fff;
+        background-image: none;
+        background-clip: padding-box;
+        border: 1px solid rgba(0, 0, 0, 0.15);
+        border-radius: 0.25rem;
+    }
+                .pull-xs-right {
+                    float: right !important; }
+
+                    .btn {
+                        display: inline-block;
+                        font-weight: normal;
+                        line-height: 1.25;
+                        text-align: center;
+                        white-space: nowrap;
+                        vertical-align: middle;
+                        cursor: pointer;
+                        user-select: none;
+                        border: 1px solid transparent;
+                        padding: 0.5rem 1rem;
+                        font-size: 1rem;
+                        border-radius: 0.25rem;
+                        color: #fff;
+                        background-color: #5CB85C;
+                        border-color: #5CB85C;
+                    }
+                    
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+div {
+    display: block;
+}
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #373a3c;
+    background-color: #fff;
+}

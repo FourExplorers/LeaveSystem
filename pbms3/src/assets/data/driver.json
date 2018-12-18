@@ -1,0 +1,27 @@
+{
+    "driver": [
+      {
+        "id": 1,
+        "driverId": "3016218077",
+        "fromtime": "6am",
+        "totime": "9pm",
+        "workline":"1"
+    },
+      {
+        "id": 2,
+        "driverId": "3016218078",
+        "fromtime": "6am",
+        "totime": "9pm",
+        "workline":"2"
+
+      },
+      {
+        "id": 3,
+        "driverId": "3016218079",
+        "fromtime": "6am",
+        "totime": "9pm",
+        "workline":"3"
+
+      }
+    ]
+  }
