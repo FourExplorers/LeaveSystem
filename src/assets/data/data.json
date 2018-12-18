@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "aragaki",
+      "password": "123456",
+      "name": "ll",
+      "belongclass": "driver"
+    },
+    {
+      "id": 2,
+      "username": "yoona",
+      "password": "1234567",
+      "name": "kk",
+      "belongclass": "manager"
+    },
+    {
+      "id": 3,
+      "username": "asaku",
+      "password": "12345678",
+      "name": "kk",
+      "belongclass": "citizen"
+    },
+    {
+      "id": 4,
+      "username": "sakura",
+      "password": "123456789",
+      "name": "ss",
+      "belongclass": "ceo"
+    },
+    {
+      "username": "7777",
+      "password": "66666",
+      "id": 5
+    },
+    {
+      "username": "7777",
+      "password": "66666",
+      "id": 6
+    },
+    {
+      "name": "abc",
+      "password": "123456789",
+      "username": "nihao",
+      "id": 7
+    },
+    {
+      "username": "lyk",
+      "password": "12356",
+      "name": "lyk",
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<div></div>
+<br>
+<button (click)="onSave($event)">查询公交信息</button>
+<br> 
+<input #search class="search" type="text" placeholder="Search..." (keydown.enter)="onSearch(search.value)">
+<ng2-smart-table [settings]="settings" [source]="source"></ng2-smart-table>
+ 
+
